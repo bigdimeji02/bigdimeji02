@@ -1,69 +1,88 @@
-# 👋 Hi, I'm Oladimeji
+# 👋🏾 Hi, I'm Oladimeji
 
-Aspiring Data Analyst with hands-on experience working with real business data.  
-I specialize in using SQL, Excel, and Power BI to clean data, analyze performance, and build dashboards that support decision-making.
+Data Analyst focused on SQL, Excel, and Power BI, with hands-on experience analyzing real business data and building dashboards that support decision-making.
 
 ---
 
 ## 🧠 Skills
 
-- **SQL (PostgreSQL, MySQL)** – Data querying, cleaning, transformation  
+- **SQL (PostgreSQL, MySQL)** – Querying, data cleaning, transformations, joins  
 - **Microsoft Excel** – Data cleaning, analysis, pivot tables  
 - **Power BI** – Dashboard design, data modeling, visualization  
-- **Data Analysis** – Business insights, trend analysis, performance tracking  
+- **Data Analysis** – Trend analysis, performance tracking, business insights  
 
 ---
 
 ## 📊 Featured Projects
 
 ### 🍕 Pizza Sales Analysis (SQL + Power BI)
-Analyzed pizza sales data to uncover demand patterns, product performance, and revenue trends.
+Analyzed pizza sales data to understand demand patterns, product performance, and revenue trends.
 
-- Identified peak hours (12–1 PM, 6 PM)  
+- Identified peak sales hours (12–1 PM, 6 PM)  
 - Analyzed top and bottom performing products  
-- Built interactive Power BI dashboard  
+- Built an interactive Power BI dashboard  
 
-🔗 **Repo:** https://github.com/bigdimeji02/pizza-sales-analysis-sql-powerbi  
-📂 **Files:** https://drive.google.com/drive/folders/1NN2FsmAkaIibz4srnGr1AwC5PwWTvKbb?usp=drive_link  
+🔗 Repo: https://github.com/bigdimeji02/pizza-sales-analysis-sql-powerbi  
+📂 Files: https://drive.google.com/drive/folders/1NN2FsmAkaIibz4srnGr1AwC5PwWTvKbb?usp=drive_link  
 
 ---
 
 ### 👟 Footwear Sales Intelligence Dashboard (Power BI)
-Analyzed business transaction data to track revenue, cost, and profitability.
+Analyzed transaction data to track revenue, cost, and profitability.
 
 - Tracked revenue (~₦391K), cost (~₦361K), profit (~₦30K)  
 - Identified high-revenue but low-profit products  
 - Analyzed sales channels and cost drivers  
 
-🔗 **Repo:** https://github.com/bigdimeji02/big-d-s-footwear-sales-intelligence-powerbi  
+🔗 Repo: https://github.com/bigdimeji02/big-d-s-footwear-sales-intelligence-powerbi  
+
+---
+
+## 🗄️ SQL Database Projects
+
+### 🌌 Universe Database (PostgreSQL)
+Designed a relational database modeling galaxies, stars, planets, and moons.
+
+- Created structured tables and defined relationships using foreign keys  
+- Inserted sample data across all tables  
+- Wrote queries using JOIN, WHERE, and GROUP BY  
+
+🔗 Repo: https://github.com/bigdimeji02/universe-database-sql  
+
+---
+
+### 🍄 Mario Database (PostgreSQL)
+Built a multi-table database modeling characters and related game data.
+
+- Structured multiple related tables  
+- Defined relationships between entities  
+- Wrote queries combining data across tables  
+
+🔗 Repo: https://github.com/bigdimeji02/mario-database-sql  
 
 ---
 
 ## 📂 Project Files
 
-All supporting files for my projects are available here:
+All supporting files for my projects:
 
 👉 https://drive.google.com/drive/folders/1Rxf-EglAeLFsoov07HXDcCMP9OC0PRoM?usp=drive_link  
 
-Includes:
-- Datasets (CSV, Excel)  
-- SQL scripts  
-- Power BI dashboards (.pbix)  
-- Project reports  
+Includes datasets, SQL scripts, Power BI dashboards, and reports.
 
 ---
 
 ## 📈 What I'm Working On
 
-- Improving SQL for advanced data analysis  
+- Advancing SQL (joins, aggregations, more complex queries)  
 - Building more real-world business case projects  
-- Strengthening dashboard storytelling and design  
+- Improving dashboard design and storytelling  
 
 ---
 
 ## 💼 Experience
 
-### 📦 Drop shipping Business (Self-Employed)
+### 📦 Drop Shipping Business (Self-Employed)
 - Managed product sourcing, fulfillment, and delivery  
 - Tracked revenue, cost, and profit data  
 - Identified product trends and customer demand patterns  
@@ -80,4 +99,4 @@ Includes:
 
 ## ⚡ Notes
 
-This GitHub profile showcases my journey in data analytics, with projects focused on solving real business problems using data.
+This profile showcases my work in data analytics, focused on using data to understand performance and support business decisions.
