@@ -6,7 +6,7 @@ Data Analyst focused on SQL, Excel, and Power BI, with hands-on experience analy
 
 ## 🧠 Skills
 
-- **SQL (PostgreSQL, MySQL)** – Querying, data cleaning, transformations, joins  
+- **SQL (PostgreSQL, MySQL)** – Querying, data cleaning, modeling, transformations, joins  
 - **Microsoft Excel** – Data cleaning, analysis, pivot tables  
 - **Power BI** – Dashboard design, data modeling, visualization  
 - **Data Analysis** – Trend analysis, performance tracking, business insights  
